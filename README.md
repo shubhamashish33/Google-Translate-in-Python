@@ -1,5 +1,5 @@
-# Google-Translate-in-Python
-This Repository Helps you to create Google Translator in python
+# Google-Translator-with-Python
+This Repository Helps you to create Google Translator with the help of python
 
 ## Pre-requisite
 - First you will need googletrans 3.0.0 for calling the API's
