@@ -15,8 +15,14 @@ from tkinter import ttk
 ```
 
 ## Screenshot
+### GUI Version
 ![image](https://user-images.githubusercontent.com/78084828/183282463-c18fa440-7237-4cf5-8b6d-6582fddda7c7.png)
 ![image](https://user-images.githubusercontent.com/78084828/183282475-e42f6f0c-4f99-40da-89cf-7112b4b2a24b.png)
+
+### Web App Version
+![image](https://user-images.githubusercontent.com/78084828/183638112-cdfd5032-fdab-4152-a778-1b16b06ddf89.png)
+
+
 
 ## Language Used
 - Python 3.9.6
