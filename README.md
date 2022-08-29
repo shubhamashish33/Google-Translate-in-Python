@@ -26,7 +26,7 @@ from tkinter import ttk
 
 ## Language Used
 - Python 3.9.6
-- Streamlit (Hosting)
+- Streamlit (Framework)
 
 ## Links🔗
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shubhamashish33.github.io/aboutmev2/)
